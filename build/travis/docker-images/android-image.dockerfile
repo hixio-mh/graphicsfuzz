@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 
 ENV JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64" PATH="/data/maven/bin:${PATH}" PYTHON_GF="python3.5" MAVEN_OPTS="-Djava.net.preferIPv4Stack=true"
 
