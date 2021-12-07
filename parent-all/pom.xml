@@ -91,7 +91,7 @@ limitations under the License.
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-server</artifactId>
-        <version>${jettyVersion}</version>
+        <version>9.4.44.v20210927</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
